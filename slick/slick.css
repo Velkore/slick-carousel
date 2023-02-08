@@ -117,3 +117,14 @@
 .slick-arrow.slick-hidden {
     display: none;
 }
+
+.slider {
+    margin-top: 7.5%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.slider-img {
+    margin: auto;
+    left: auto;
+}
